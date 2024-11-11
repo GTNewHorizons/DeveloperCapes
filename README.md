@@ -1,8 +1,6 @@
 Developer Capes
 =============
 
-###Notice: This project is no longer actively maintained. You are free to fork, update, and use it as the license permits. Thank you.
-
 ####Version: 3.4.1.x
 
 A Minecraft library for adding Developer/Tester only capes!
